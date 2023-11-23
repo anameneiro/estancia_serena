@@ -72,6 +72,9 @@ header{
     font-size: 4vmin;
 }
 
+span{
+    color: #95c580;
+}
 .line{
     width: 150px;
     height: 4px;
